@@ -1,0 +1,6 @@
+Bonjour tout le monde.
+
+Ceci est un test pour le programme.
+Il doit compter les mots, même quand il y a    plusieurs espaces.
+
+Bravo au Java ! je te remercie sincerement .
